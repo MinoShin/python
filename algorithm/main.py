@@ -19,3 +19,4 @@ for _ in range(0,100):
 
 print("test git!!!_210526")
 print("1")
+print("RE_test_git_python_folder")
