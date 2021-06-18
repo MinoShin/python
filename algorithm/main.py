@@ -24,8 +24,8 @@
 
 num = 987
 
-# mod_num = list(map(int, str(num)))
-print([int(i) for i in str(num)])
+mod_num = list(map(int, str(num)))
+# print([int(i) for i in str(num)])
 sum = 0
 
 for i in mod_num:
